@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 14 20:51:22 2025
-
-@author: GOWRI
-"""
 # python number guessing game
 import random
 low_num = int(input("enter the lowest num:"))
