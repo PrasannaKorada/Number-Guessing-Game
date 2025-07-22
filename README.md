@@ -1,4 +1,5 @@
 # 🎯 Python Number Guessing Game
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A simple command-line based number guessing game developed in Python.  
 The user must guess a randomly generated number within a given range.  
